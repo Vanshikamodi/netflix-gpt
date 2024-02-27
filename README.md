@@ -2,6 +2,9 @@
 
 - Create React App
 - Configured TalwindCss
+- Header
+- Login Form
+- Sign up Form
 
 # Features
 - Login/Sign Up
